@@ -1,5 +1,20 @@
 # 💫 About Me:
-Hi, I'm Sami 👋<br>A passionate Electrical & Electronic Engineering (EEE) student with a strong interest in technology, robotics, and AI-driven solutions.<br><br>I enjoy building real-world projects that combine hardware and software, including embedded systems, computer vision, and automation. Currently, I’m working on projects like an underwater ROV (remotely operated vehicle) and exploring advanced topics such as robotics control systems and intelligent applications.
+Hi, I’m Sami Chowdhury 👋
+I am an Electrical & Electronic Engineering (EEE) student at Shahjalal University of Science & Technology (SUST), passionate about building intelligent systems that bridge hardware and software.
+
+With a solid foundation in C, C++, and Python, I focus on developing real-world engineering solutions using embedded systems, robotics, and computer vision. I enjoy turning theoretical concepts into practical, working prototypes.
+
+🚀 Current Focus:
+I am currently developing an Underwater ROV (Remotely Operated Vehicle)-SEAHAWK. This project reflects my interest in robotics, control systems, and real-time problem solving.
+
+💡 Core Skills & Tools:
+
+Programming: C, C++, Python
+Embedded Systems: Arduino, ESP32
+Software & Tools: MATLAB, OpenCV, Fusion 360,Numpy,Pandas,Scikit-learn,Matplotlib,Seaborn
+Areas of Interest: Robotics, AI, Automation, Embedded Systems
+
+I am continuously exploring advanced technologies in machine learning, robotics, and intelligent automation, with the goal of building impactful engineering solutions.
 
 
 ## 🌐 Socials:
