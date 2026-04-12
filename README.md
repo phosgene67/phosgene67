@@ -9,10 +9,9 @@ I am currently developing an Underwater ROV (Remotely Operated Vehicle)-SEAHAWK.
 
 💡 Core Skills & Tools:
 
-Programming: C, C++, Python
-Embedded Systems: Arduino, ESP32
-Software & Tools: MATLAB, OpenCV, Fusion 360,Numpy,Pandas,Scikit-learn,Matplotlib,Seaborn
-Areas of Interest: Robotics, AI, Automation, Embedded Systems
+Programming: C, C++, Python.
+Software & Tools: MATLAB, OpenCV, Fusion 360,Numpy,Pandas,Scikit-learn,Matplotlib,Seaborn.
+Areas of Interest: Robotics, AI, Automation, Embedded Systems.
 
 I am continuously exploring advanced technologies in machine learning, robotics, and intelligent automation, with the goal of building impactful engineering solutions.
 
