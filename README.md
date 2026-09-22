@@ -5,8 +5,7 @@ I am an Electrical & Electronic Engineering (EEE) student at Shahjalal Universit
 With a solid foundation in C, C++, and Python, I focus on developing real-world engineering solutions using embedded systems, robotics, and computer vision. I enjoy turning theoretical concepts into practical, working prototypes.
 
 🚀 Current Focus:
-I am currently developing an Underwater ROV (Remotely Operated Vehicle)-SEAHAWK. This project reflects my interest in robotics, control systems, and real-time problem solving.
-
+I am currently developing an Underwater ROV (Remotely Operated Vehicle)-SEAHAWK. Bipedal Robot -Aurabot
 💡 Core Skills & Tools:
 
 Programming: C, C++, Python.
