@@ -2,11 +2,9 @@
 Hi, I’m Sami Chowdhury 👋
 I am an Electrical & Electronic Engineering (EEE) student at Shahjalal University of Science & Technology (SUST), passionate about building intelligent systems that bridge hardware and software.
 
-With a solid foundation in C, C++, and Python, I focus on developing real-world engineering solutions using embedded systems, robotics, and computer vision. I enjoy turning theoretical concepts into practical, working prototypes.
-
 🚀 Current Focus:
-I am currently developing an Underwater ROV (Remotely Operated Vehicle)-SEAHAWK. Bipedal Robot -Aurabot
-💡 Core Skills & Tools:
+I am currently developing an Underwater ROV (Remotely Operated Vehicle)-SEAHAWK. Bipedal Robot -Aurabot.
+ Core Skills & Tools:
 
 Programming: C, C++, Python.
 Software & Tools: MATLAB, OpenCV, Fusion 360,Numpy,Pandas,Scikit-learn,Matplotlib,Seaborn.
