@@ -10,7 +10,6 @@ Programming: C, C++, Python.
 Software & Tools: MATLAB, OpenCV, Fusion 360,Numpy,Pandas,Scikit-learn,Matplotlib,Seaborn.
 Areas of Interest: Robotics, AI, ML, Embedded Systems.
 
-I am continuously exploring advanced technologies in machine learning, robotics, and intelligent automation, with the goal of building impactful engineering solutions.
 
 
 ## 🌐 Socials:
